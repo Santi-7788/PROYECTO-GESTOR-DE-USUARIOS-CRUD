@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Ejecutar Gestor Usuarios (Launcher)" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="aplicacion.Launcher" />
+    <module name="CRUD_GESTOR_USUARIOS" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
